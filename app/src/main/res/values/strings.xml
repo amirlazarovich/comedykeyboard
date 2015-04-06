@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Comedy Keyboard</string>
+    <string name="label_comedy_keyboard">Comedy Keyboard</string>
+    <string name="label_comedy_keyboard_settings">Comedy Keyboard Settings</string>
+    <string name="subtype_generic">%s</string>
+</resources>
